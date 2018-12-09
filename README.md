@@ -10,4 +10,3 @@ Data Overview: 1.training_variants (ID , Gene, Variations, Class) 2.training_tex
 
 Performance matrix: 1.multi class log-loss 2.confusion matrix
 
-Exploratory Data Analysis:
